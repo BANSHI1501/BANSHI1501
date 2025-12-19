@@ -1,5 +1,4 @@
-## Hi there 👋
-👋 Hey there, I'm **Banshi Prasad** — Full Stack Web Developer  
+## Hi there 👋, I'm **Banshi Prasad** — Full Stack Web Developer  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=BANSHI1501&color=blue)
 
