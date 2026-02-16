@@ -11,7 +11,7 @@ I enjoy building scalable, efficient, and user-friendly web applications using m
 
 - 🎓 **B.Tech (CSE)** – Full Stack Web Development  
 - 🌍 **Based in India**  
-- 👨‍💻 Currently building full stack applications with **Java & JavaScript**  
+- 👨‍💻 Strong in Data Structures and Algorithms using **Java** 
 - 💬 Ask me about **Java, React, Node.js, REST APIs, MongoDB**  
 - 📫 Reach me at: **prasadbanshi2002@gmail.com**  
 - ⚡ Fun fact: I debug better with coffee ☕  
