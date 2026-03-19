@@ -45,8 +45,7 @@ I enjoy building scalable, efficient, and user-friendly web applications using m
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BANSHI1501&layout=compact&theme=tokyonight)
 
 ---
-## 📊 LeetCode Stats
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/Banshiprasad?theme=dark&font=Baloo&ext=contest)
+## Leetcode Stats
+![LeetCode Heatmap](https://leetcard.jacoblin.cool/Banshiprasad?ext=heatmap)
 
 ⭐ *Feel free to explore my repositories and connect with me!*
